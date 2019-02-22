@@ -1,0 +1,63 @@
+h2{
+	text-align:center;
+	background-color: 	rgb(210, 45, 45);
+}
+body{
+	background-image: url("img/thumb-1920-78424.jpg");
+	filter: opacity(opacity: 70%);
+	min-width: 100%;
+    min-height: 100%;
+	margin: 0;
+    padding: 0;
+	background-position: top center;
+
+	p {
+		
+}
+  
+}
+
+h3{
+	text-align: center;
+	background:	rgb(210, 45, 45);
+	width: 1500px;
+}
+
+h4{
+	text-align: center;
+	color: #660000;
+	background-color: rgb(210, 45, 45);
+}
+.events{
+	text-align: center;
+}
+.colorred {
+	color: yellow;
+	text-align: center;
+	font-size: 22px;
+	background-color: brown;
+	
+
+}
+
+div {
+    border: 1px solid black;
+    padding: 10px;
+    width: 1600px;
+    text-align: justify;
+	font-size:14px;
+	color:gold;
+}
+
+.heading{
+	text-align: center;
+	width: 200;
+	background-color: rgb(210, 45, 45);
+	
+}
+a:link {
+     font-size: 50px;
+     color: red
+	 
+     
+}

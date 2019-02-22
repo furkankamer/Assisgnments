@@ -1,0 +1,26 @@
+a:link {
+     font-size: 30px;
+     color: red
+	 
+     
+}
+
+body {
+background-color: orange
+}
+h1{
+font-size: 40px
+}
+div{
+	color: white;
+	font-size: 30px;
+	background-color: black;
+}
+p{
+	background-color:brown;
+	font-size:30px;
+}
+table, th, td {
+    border: 3px solid brown;
+	padding: 25px;
+}
