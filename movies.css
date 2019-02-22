@@ -1,0 +1,28 @@
+body{
+	background-image: url("img/thumb-1920-78424.jpg");
+	filter: opacity(opacity: 70%);
+	min-width: 100%;
+    min-height: 100%;
+	margin: 0;
+    padding: 0;
+	background-position: top center;
+	
+	
+}
+h2{
+	text-align: center;
+	font-size: 60;
+	background-color: brown;
+}
+table, th, td {
+    border: 3px solid brown;
+	font-size:17px;
+	padding: 10px;
+	width: 200px;
+}
+a:link {
+     font-size: 30px;
+     color: red
+	 
+     
+}
